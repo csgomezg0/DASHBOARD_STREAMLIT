@@ -1,0 +1,9 @@
+cd "C:\Users\COMETWARE HALLEY\Documents\DASHBOARD_APP\PROYECTO1\streamlit-dashboard-template-main"
+
+python3.8 -m streamlit run dashboard.py
+
+
+ python3.8 -m streamlit
+ run .\INICIO.py
+
+https://www.kaggle.com/datasets/vipin20/transaction-data?resource=download
